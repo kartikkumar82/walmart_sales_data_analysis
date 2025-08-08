@@ -128,6 +128,7 @@ Possible extensions to this project:
 
 ---
 
-## Author - Kartik Kumar
+## Conatct me
+### Author - Kartik Kumar
 LinkedIn - www.linkedin.com/in/kartikkumar82
 Email - kartikkumar1800089@gmail.com
